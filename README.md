@@ -9,7 +9,7 @@ Welcome to the **Linux for DevOps** course! This course is designed to equip you
 
 ## Course Outline
 
-### Week 1: Introduction to Linux
+### Module 1: Introduction to Linux
 - Overview of Operating system and Kernel
 - Open source vs proprietary and Linux distributions (Ubuntu, CentOS, RedHat, etc.)
 - Overview of Vertulizations
@@ -23,7 +23,7 @@ Welcome to the **Linux for DevOps** course! This course is designed to equip you
 - File and directory permissions (`chmod`, `chown`)
   - Symbolic Permissions and Numeric Permissions
     
-### Week 2: Working with Users, Groups, Adavance Permissions and File Manipulation
+### Module 2: Working with Users, Groups, Adavance Permissions and File Manipulation
 - Understanding users and groups in Linux
   - Managing users (`useradd`, `adduser`, `usermod`, `userdel`)
   - Understanding Types of Accounts
@@ -40,7 +40,7 @@ Welcome to the **Linux for DevOps** course! This course is designed to equip you
   - Search and replace patterns (`sed`)
   - Cut, Sort and Compare the content ( `cut`, `sort`, `uniq`, `diff`) 
 
-### Week 3: System Administration
+### Module 3: System Administration
 - Package Management
   - Software installation and package management (APT, YUM, DNF)
   - Managing Repositories and authentication
@@ -61,7 +61,7 @@ Welcome to the **Linux for DevOps** course! This course is designed to equip you
 - System logging and monitoring (`syslog`, `journalctl`, `dmesg`)
 - Cron jobs and scheduling tasks (`crontab`)
 
-### Week 4: Networking and Security
+### Module 4: Networking and Security
 - Basic networking concepts:
   - IP addressing, subnetting, and network interfaces
   - `ifconfig`, `ip`, `ping`, `netstat`, `ss`
@@ -73,7 +73,7 @@ Welcome to the **Linux for DevOps** course! This course is designed to equip you
   - Securing Linux servers (updates, patches, configurations)
   - Introduction to `fail2ban`, `ufw`, and `SELinux`
 
-### Week 5: Automation and Configuration Management
+### Module 5: Automation and Configuration Management
 - Introduction to automation in DevOps
 - Git Basics (Versioning Control tool Basics)
 - Bash scripting for task automation
