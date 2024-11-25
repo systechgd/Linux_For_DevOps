@@ -85,7 +85,7 @@ Welcome to the **Linux for DevOps** course! This course is designed to equip you
   - Installing Docker
   - Basic Docker commands (`docker run`, `docker ps`, `docker build`, `docker-compose`)
 
-### Week 6: DevOps Tools and Linux in the Cloud
+### Module 6: DevOps Tools and Linux in the Cloud
 - Introduction to DevOps and Continuous Integration/Continuous Deployment (CI/CD)
 - Linux in the cloud (AWS, Azure, GCP)
 - Introduction to Infrastructure as Code with **Terraform**
