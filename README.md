@@ -1,4 +1,4 @@
-# Linux_For_DevOps
+# Linux For DevOps
 
 Welcome to the **Linux for DevOps** course! This course is designed to equip you with the essential Linux skills that are critical for a successful DevOps career. You will learn how to work with Linux systems, manage servers, and automate tasks effectively in a DevOps environment.
 
